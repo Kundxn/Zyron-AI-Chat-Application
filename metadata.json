@@ -1,0 +1,6 @@
+{
+  "name": "LocalMind – AI Chat Powered by Ollama",
+  "description": "ChatGPT-style local AI chat interface powered by Ollama with real-time streaming, document RAG, conversation persistence, and model management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
